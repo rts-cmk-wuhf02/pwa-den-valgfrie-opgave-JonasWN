@@ -1,5 +1,7 @@
 # PWA-den-valgfrie-opgave
 
+# Link til site > https://pwa-next-one.vercel.app/
+
 # Formål: 
 Opgaven har til formål at, demonstrere at **koncepterne fra PWA undervisningen** kan anvendes i praksis i fremstillingen at et produkt.
 
